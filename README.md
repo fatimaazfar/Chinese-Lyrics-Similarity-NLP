@@ -1,10 +1,10 @@
 # Chinese Language Similarity - NLP
 
-Welcome to the Chinese Language Similarity project! This project focuses on finding similarity between Chinese language sentences and lyrics using Natural Language Processing (NLP) techniques. The code explores various methods, including TF-IDF, BERT embeddings, and a Bidirectional Temporal Siamese Network.
+Welcome to the Chinese Language Similarity project! This project focuses on finding similarities between Chinese language sentences and lyrics using Natural Language Processing (NLP) techniques. The code explores various methods, including TF-IDF, BERT embeddings, and a Bidirectional Temporal Siamese Network.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Environment Setup](#env-setup)
+- [Environment Setup](#environment-setup)
 - [Exploratory Data Analysis (EDA)](#eda)
 - [Preprocessing](#preprocessing)
 - [TF-IDF and Cosine Similarity](#tf-idf-and-cosine-similarity)
